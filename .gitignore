@@ -1,0 +1,5 @@
+__tests__
+coverage
+mocks
+.prettierrc.json
+jest.config.js
